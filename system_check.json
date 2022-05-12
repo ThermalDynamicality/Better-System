@@ -1,0 +1,8 @@
+{
+    "duration" : 300,
+    "exclude" : ["desktop.ini", "Common Files"],
+    "folders" : [
+        "C:\\Program Files (x64)",
+        "C:\\Program Files (x86)\\Common Files"
+	]
+}
